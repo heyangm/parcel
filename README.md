@@ -1,3 +1,5 @@
+
+[parcel](https://www.parceljs.cn/getting_started.html)
 ## 使用
 安装
 
@@ -13,15 +15,15 @@ yarn init -y
 
 ### 运行
 开发环境
-    ```bash
+```bash
     parcel index.html
-    ```
+```
 默认 http://localhost:1234/   使用parcel index.html -p < port number>覆盖端口
 
 生产环境
-    ```bash
+```bash
     parcel build index.html
-    ```
+```
 
 ### 入口文件
 
